@@ -15,9 +15,8 @@
 
 .nav{
     text-align:center;
-    font-size: 35px;
     margin-right: 100px;
-    margin-left: 700px;
+    margin-left: 800px;
     justify-content:space-around;
     justify-items:baseline ;
     position:absolute;
@@ -26,7 +25,7 @@
 .header-title{
     color:#FFFFFF;
     font-weight: bold;
-    margin;
+    font-size: 70px;
 
     
 }
