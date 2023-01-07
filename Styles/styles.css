@@ -1,0 +1,227 @@
+*{
+  margin:0;
+    font-family:'Work Sans', sans-serif;
+}
+.header{
+    align-items: center;
+    background-image:url(../images/banner/banner3.png);
+    background-position: top;
+    position:relative;
+    width: 1380px;
+    height: 808px;
+    background-repeat: no-repeat;
+    margin-top:none;
+} 
+
+.nav{
+    text-align:center;
+    font-size: 35px;
+    margin-right: 100px;
+    margin-left: 700px;
+    justify-content:space-around;
+    justify-items:baseline ;
+    position:absolute;
+    margin-top: 200px;
+}
+.header-title{
+    color:#FFFFFF;
+    font-weight: bold;
+    margin;
+
+    
+}
+.header-description{
+    color: #FFFFFF;
+
+}
+.btn-contract{
+    color: #005FAC;
+    background: #FFFFFF;
+
+    border: #005FAC;
+    border-radius: 8px;
+    padding: 21px 26px;
+    font-size: 20px;
+    font-weight: bold;
+}
+/* First-Section */
+.first-section{
+    display: flex;
+    justify-content:space-between;
+    margin: 130px 150px ;
+}
+.lady{
+margin-right: 80px;
+}
+.failures{
+    
+    margin-top: 240px;
+    margin-right: 40px;
+}
+.title{
+    margin: 20px ;
+    color: #151414;
+    font-weight: bold;
+    margin-right: 60px;
+    font-size: 40px;
+}
+.title-description{
+    margin: 20px;
+    color: #444343;
+    text-decoration: left;
+}
+.icons{
+    color: greenyellow;
+}
+.p{
+    margin: 10px 20px;
+    color: #444343;
+}
+/* Second-Section  */
+.second-section{
+    text-align: center;
+    justify-content: center;
+}
+
+.plans{
+    display: flex;
+    text-align: center;
+    margin: 40px 200px;
+    justify-content: center;
+    padding: 30px 30px;
+}
+li{
+    list-style:none;
+    margin:0 40px ;
+}
+h3{
+    font-weight: bold;
+}
+
+/* Third Section  */
+
+.third-section{
+    justify-content: center;
+    justify-items: center;
+    position:relative;
+    background-image: url(../images/watch.png);
+    width: 1140px;
+    height: 301px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    border-radius: 8px;
+    margin-left: 100px;
+}
+.gradient{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    width: 1140px;
+    height: 301px;
+    position: absolute;
+}
+.gradient-title{
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 20px 20px;
+    margin-right: 60px;
+    margin-top: 60px;
+    margin-left: 50px;
+
+}
+.btn-call{
+    color: #005FAC;
+    background:White;
+    border: #005FAC;
+    border-radius: 8px;
+    margin: 10px 64px;
+    padding: 18px 60px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Forth-Section */
+.fourth-section{
+    justify-content: center;
+    text-align: center;
+    margin: 50px 320px;
+   
+}
+.platform{
+    background-color: rgb(196, 224, 240);
+    padding: 20px ;
+    
+}
+.education{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.course{
+    font-weight: bold;
+    margin: px;
+}
+.hr{
+    margin: 10px 100px;
+}
+
+
+/* Footer-Part */
+
+.footer{
+    display: flex;
+    justify-items: center;
+    background-color: black;
+    height: 500px;
+    width: 1350px;
+    margin-top: 130px;
+}
+.footer-div-1{
+    margin: 100px 100px;
+}
+.footer-title{
+    color:#FFFFFF;
+    font-weight: bold;
+    margin-right: 60px;
+    font-size: 40px;
+    margin-bottom: 16px;
+
+}
+.footer-title-desc{
+    color: #FFFFFF;
+    text-decoration: left;
+}.email{
+    color: #FFFFFF;
+    margin:10px 0;
+}
+.phone{
+    color: #FFFFFF;
+    margin: 10px 0;
+}
+.social-media{
+    justify-content:left;
+    display: flex;
+    margin-top: 30px;
+    gap: 12px;
+}
+/* Footer-Div-2  */
+.footer-div-2{
+    margin: 130px 100px;
+}
+.input-email{
+    color: White;
+    background-color:black;
+    border: 1px solid white;
+    margin-bottom: 16px;
+    padding:16px 55px;
+    border-radius: 8px;
+}
+.btn-subscribe{
+    color: white;
+    background-color: red;
+    border-radius: 8px;
+    padding: 16px 32px;
+    font-size: 20px;
+    font-weight: bold;
+}
+}
